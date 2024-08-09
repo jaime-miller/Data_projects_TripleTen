@@ -6,7 +6,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | :-----------: | ----------- |----------- |
 | 1 | [e-Commerce Business Analytics Project](https://docs.google.com/spreadsheets/d/1jgpNTxGjuub6bCPt4Sh6uITMtAUbP1E5-33Mzzz1S64/edit?usp=drive_link) | The project task was to analyze user data from an e-commerce company to understand how well the website was converting product page views into purchases. |
 | 2 | [Data Visualization with Tableau](https://public.tableau.com/views/Sprint4-JaimeMiller/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | The project task was to review the superstore’s operations and increase its profitability to avoid bankruptcy. |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
+| 3 | [Storytelling with Data](https://public.tableau.com/views/StorytellingwithDataSprint5_JaimeMiller_1stIteration/SuperstoreReturnAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)| The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
 | 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
 
 
