@@ -37,5 +37,5 @@ The project was divided into specific tasks, each of which is documented below:
 
 ## How to Use This Repository
 - **SQL Scripts:** All SQL queries used in this project are saved in the [`SQL_Scripts`](./SQL_Scripts/) folder. Each script corresponds to a specific task outlined above.
-- **Dataset:** The dataset is provided as a SQL database dump in the `Data` folder for reproducibility.
+- **Dataset:** The dataset used for this project was accessed directly through the TripleTen website and is not available as a downloadable file in this repository. All analyses were conducted using SQL queries on the provided data.
 
