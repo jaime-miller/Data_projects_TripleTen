@@ -6,7 +6,8 @@ This project was completed using Tableau and focuses on analyzing the operations
 
 ## Datasets Used
 
-- **Superstore.xls**: The primary dataset containing details about orders, products, customers, and returns.
+- [Superstore.xls](./Superstore.xlsx): The primary dataset containing details about orders, products, customers, and returns.
+
 
 ## Project Objectives
 
