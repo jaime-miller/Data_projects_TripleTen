@@ -36,5 +36,6 @@ The project was divided into specific tasks, each of which is documented below:
 - **Passenger Communication:** Inform passengers of potential delays during adverse weather conditions to manage expectations.
 
 ## How to Use This Repository
-- **SQL Scripts:** All SQL queries used in this project are saved in the `SQL_Scripts` folder. Each script corresponds to a specific task outlined above.
+- **SQL Scripts:** All SQL queries used in this project are saved in the [`SQL_Scripts`](./SQL_Scripts/) folder. Each script corresponds to a specific task outlined above.
 - **Dataset:** The dataset is provided as a SQL database dump in the `Data` folder for reproducibility.
+
