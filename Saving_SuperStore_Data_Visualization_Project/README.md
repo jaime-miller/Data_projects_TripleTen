@@ -78,4 +78,4 @@ This project provided valuable insights into the superstore's operations. By foc
 
 ## How to View the Visualizations
 
-The visualizations were created in Tableau. You can view the interactive Tableau workbook by following this link: <a href="https://public.tableau.com/views/Sprint4-JaimeMiller/Story1?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">View Tableau Workbook</a>.
+The visualizations were created in Tableau. You can view the interactive Tableau workbook by following this link: [Link to Tableau Public or other platform](https://public.tableau.com/views/Sprint4-JaimeMiller/Story1?:language=en-US&:display_count=n&:origin=viz_share_link).
