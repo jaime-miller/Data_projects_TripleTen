@@ -23,6 +23,22 @@ This project was completed using Tableau and focuses on analyzing the operations
    - Analyze the return rates of products and customers to identify patterns and areas for improvement.
    - Visualize the relationship between average profit and average return rate by state and customer segments.
 
+## Key Visuals
+
+- **Profit Centers by Region**
+  - ![Profit Centers by Region](https://github.com/user-attachments/assets/14a8e151-4a7e-4cd0-9e4f-0fa725f372d7)
+
+- **Subcategory Focus Areas**
+  - ![Focus on These Subcategories](https://github.com/user-attachments/assets/509175ca-6ad8-416d-8470-784a84c7b62a)
+
+- **Best State-Month Combinations for Advertising**
+  - ![State_month_combination_for_ads](https://github.com/user-attachments/assets/a16a1dff-efe9-4241-a5f8-47aea64786c8)
+
+
+- **Profit vs. Return Rate by State**
+  - ![Avg_profit_return_rate_per_state](https://github.com/user-attachments/assets/846abd6a-b802-4920-aba0-80cb9519c682)
+
+
 ## Data Visualizations
 
 ### Part 1: Profits & Losses
@@ -51,7 +67,6 @@ This project was completed using Tableau and focuses on analyzing the operations
 
 - **Visualization 7: Profit vs. Return Rate by State**
   - *Explanation*: Compares profit and return rates across states to identify areas for strategic focus.
-
 
 ## Insights and Recommendations
 
