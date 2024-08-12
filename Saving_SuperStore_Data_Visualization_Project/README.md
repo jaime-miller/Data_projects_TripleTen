@@ -10,6 +10,11 @@ This project was completed using Tableau and focuses on analyzing the operations
 
 ## Project Objectives
 
+- **Profit Centers by Region**
+  - [View Full Visualization](link_to_large_image)
+  - ![Thumbnail](images/profit_centers_thumbnail.png)
+
+
 1. **Profits & Losses**
    - Identify the top two profit centers and the top two loss-makers by region and product category.
    - Recommend products that the superstore should stop selling.
@@ -27,37 +32,31 @@ This project was completed using Tableau and focuses on analyzing the operations
 
 ### Part 1: Profits & Losses
 
-- **Visualization 1**: Profit Centers by Region  
-  ![Profit Centers by Region](#)
-  - *Explanation*: This visualization displays the profitability of different regions and product categories, highlighting the Central and East regions as key profit centers, while identifying underperforming areas in the West.
+- **Visualization 1: Profit Centers by Region**
+  - *Explanation*: Shows the most and least profitable regions across key categories, highlighting where the superstore is excelling and where improvement is needed.
 
-- **Visualization 2**: Products to Stop Selling  
-  ![Products to Stop Selling](#)
-  - *Explanation*: This chart highlights products that consistently generate losses, such as the GBC DocuBind P400 Electric, suggesting that the superstore should discontinue these items to improve overall profitability.
+- **Visualization 2: Products to Stop Selling**
+  - *Explanation*: Identifies products that consistently lose money, suggesting they should be discontinued to avoid further losses.
 
-- **Visualization 3**: Subcategory Focus Areas  
-  ![Subcategory Focus Areas](#)
-  - *Explanation*: This visualization identifies the top three subcategories (Copiers, Phones, and Accessories) to focus on for maximizing profit, along with recommendations for discontinuing less profitable subcategories.
+- **Visualization 3: Subcategory Focus Areas**
+  - *Explanation*: Highlights the top three subcategories for profitability, recommending where to focus efforts for growth.
 
 ### Part 2: Advertising
 
-- **Visualization 4**: Best State-Month Combinations for Advertising  
-  ![State-Month Combinations](#)
-  - *Explanation*: This heatmap highlights the most profitable state and month combinations for targeted advertising, recommending specific investments in states like Washington (March), Indiana (October), and Vermont (December) based on high returns.
+- **Visualization 4: Best State-Month Combinations for Advertising**
+  - *Explanation*: Reveals the best times and places for advertising, helping to maximize return on investment.
 
 ### Part 3: Returned Items
 
-- **Visualization 5**: Products with the Highest Return Rates  
-  ![Highest Return Rates](#)
-  - *Explanation*: This chart identifies products with high return rates, indicating potential quality issues that need to be addressed to reduce returns and improve customer satisfaction.
+- **Visualization 5: Products with the Highest Return Rates**
+  - *Explanation*: Lists products with high return rates, indicating potential quality or satisfaction issues.
 
-- **Visualization 6**: Customers with the Highest Return Rates  
-  ![Customer Return Rates](#)
-  - *Explanation*: This visualization pinpoints customers who frequently return items, allowing the superstore to address underlying issues and improve retention strategies.
+- **Visualization 6: Customers with the Highest Return Rates**
+  - *Explanation*: Pinpoints customers with frequent returns, offering insight into potential service improvements.
 
-- **Visualization 7**: Profit vs. Return Rate by State  
-  ![Profit vs Return Rate](#)
-  - *Explanation*: This scatter plot compares average profit with average return rates by state, providing insights into which regions are profitable and have manageable return rates, guiding strategic focus.
+- **Visualization 7: Profit vs. Return Rate by State**
+  - *Explanation*: Compares profit and return rates across states to identify areas for strategic focus.
+
 
 ## Insights and Recommendations
 
