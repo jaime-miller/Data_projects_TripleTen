@@ -10,11 +10,6 @@ This project was completed using Tableau and focuses on analyzing the operations
 
 ## Project Objectives
 
-- **Profit Centers by Region**
-  - [View Full Visualization](link_to_large_image)
-  - ![Thumbnail](images/profit_centers_thumbnail.png)
-
-
 1. **Profits & Losses**
    - Identify the top two profit centers and the top two loss-makers by region and product category.
    - Recommend products that the superstore should stop selling.
