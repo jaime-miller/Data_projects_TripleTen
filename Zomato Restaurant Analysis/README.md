@@ -80,7 +80,7 @@ Suggestions for further analysis and business outcomes include:
 
 ## Project Files
 
-- [Dashboard Link](#) (replace `#` with your actual link)
+- [Dashboard Link](https://public.tableau.com/views/ZamatoFinalFINALProject/ZAMATOFINALRESTAURANTANALYSIS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Data Files:** CSV files with the cleaned and merged datasets are included in the repository.
 - **Report:** A detailed report in PDF format summarizing the findings and recommendations.
 
